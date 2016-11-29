@@ -1,0 +1,10 @@
+{
+  "people": {
+    "url": "https://8ef3d34e-8f0f-4d0b-b0d5-47ebd0c6deec-bluemix:1f9e15678a186182e184bc63945d84d60564d9dbb7d61369f21f117a4c1db1c6@8ef3d34e-8f0f-4d0b-b0d5-47ebd0c6deec-bluemix.cloudant.com",
+    "database": "people",
+    "username": "8ef3d34e-8f0f-4d0b-b0d5-47ebd0c6deec-bluemix",
+    "password": "1f9e15678a186182e184bc63945d84d60564d9dbb7d61369f21f117a4c1db1c6",
+    "name": "people",
+    "connector": "cloudant"
+  }
+}
